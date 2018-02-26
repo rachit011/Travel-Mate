@@ -2,7 +2,7 @@
 
 	require_once 'inc/function.inc.php';
 
-	$train_api_code = "ffhzn9117";
+	$train_api_code = "ngzzl459bj";
 	$final_response = array();
 
 	if (isset($_GET['src_city']) && isset($_GET['dest_city']) && isset($_GET['date'])) {
